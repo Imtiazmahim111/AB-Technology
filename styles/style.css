@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+ul li a{
+    font-size: 18px;
+}
+.services img{
+    width: 200px;
+}
+.about{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.services{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.testimonials{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.fa-star{
+    color: darkorange;
+}
+.text{
+    text-decoration: none;
+    color: white;
+}
